@@ -1,0 +1,6 @@
+import io.netty.channel.VoidChannelPromise;
+public class FunctionUse7391 {
+public void funcUse() {
+VoidChannelPromise voidchannelpromise = new VoidChannelPromise();
+}
+}
